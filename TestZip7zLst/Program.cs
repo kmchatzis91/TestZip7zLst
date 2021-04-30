@@ -14,7 +14,7 @@ namespace TestZip7zLst
             #region Paths
             string sourceDirectory = "The_Source_Directory";
             string destinationDirectory = "The_Destination_Directory";
-            string corruptedDirectory = "The_Destination_Directory";
+            string corruptedDirectory = "The_Corrupted_Directory";
             #endregion
 
             Console.ForegroundColor = ConsoleColor.Yellow;
